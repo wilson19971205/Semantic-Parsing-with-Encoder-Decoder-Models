@@ -3,7 +3,7 @@ Basic Encoder-Decoder, Attention
 
 ## How to run:
 ```
-python3 main.py
+python main.py
 ```
 
 ## Introduction:
